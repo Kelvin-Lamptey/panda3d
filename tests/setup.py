@@ -3,6 +3,7 @@ import pytest
 
 setup(
     name="panda3d-tester",
+    version="1.10.8",
     options={
         'build_apps': {
             'gui_apps': {
